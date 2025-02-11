@@ -5,5 +5,5 @@ Welcome in this collection of Aerospace books and papers. The aim of this space 
 - **Research-Papers/** : Papers on aerospace's breathtaking advancements.  
 - **Links/** : Helpful external ressources. 
 ## 📜 Licence  
-Feel free to read, share and give me a star!
+Feel free to read, share and give a star!
 
